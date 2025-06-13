@@ -1,4 +1,5 @@
 # snack-bar-order-manager
+
 Order management system for a snack bar
 
 <p align="center">
@@ -11,6 +12,7 @@ Order management system for a snack bar
 ![License: MIT](...badge...)
 
 ## 📋 Table of Contents
+
 - [About](#about)
 - [Features](#features)
 - [Installation](#installation)
@@ -22,16 +24,19 @@ Order management system for a snack bar
 - [Contact](#contact)
 
 ### ✨ Features
+
 - 🎯 Gestão intuitiva de pedidos
 - ⏱️ Histórico e tempo de preparo
 - 📦 Gerenciamento de cardápio dinâmico
 
 ### Prerequisites
-- Node.js ≥ 14.x  
+
+- Node.js ≥ 14.x
 - MongoDB
 
 ### Installation
-```bash
+
+````bash
 git clone ...
 cd snack-bar-order-manager
 npm install
@@ -41,7 +46,7 @@ Usuário corporativo consegue replicar ambiente sem esforço :contentReference
 
 ---
 
-## 💻 7. Usage / Demonstração  
+## 💻 7. Usage / Demonstração
 Mostre um snippet ou GIF:
 ```markdown
 ### Demo
@@ -68,5 +73,6 @@ Mostre um snippet ou GIF:
 Este projeto está licenciado sob MIT © 2025 DCN ProEnergy
 
 ## Contact
-Diego Nascimento – diego.nascimento@dcnproenergy.com  
+Diego Nascimento – diego.nascimento@dcnproenergy.com
 Link do projeto: https://github.com/digaaonas/snack-bar-order-manager
+````
